@@ -29,7 +29,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/lmarchisotti/degree">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -153,7 +153,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
+- [X] Feature 1
 - [ ] Feature 2
 - [ ] Feature 3
     - [ ] Nested Feature
